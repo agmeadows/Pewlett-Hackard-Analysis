@@ -16,13 +16,13 @@ There are an exceptionally large number of employees are eligable across all dep
 
 ## Summary
 
-Below is a breakdown of the number of roles that need to be filled:
+Below is a breakdown of the number of roles that need to be filled:<br>
 ![Retiring_Titles](./Resources/retiring_titles.PNG)
 
- Below is a breakdown of the number of eligible employees for them mentorship program based on title:
+ Below is a breakdown of the number of eligible employees for them mentorship program based on title:<br>
  ![Retiring_Titles](./Resources/mentorship_eligibility_bytitle.PNG)
 
- Across the organization, there are not enough eligigle employees to mentor staff to replace the outgoing staff. THis can be shown by calculating the number of employees a mentor would need to train using data from the above two tables:
+ Across the organization, there are not enough eligigle employees to mentor staff to replace the outgoing staff. THis can be shown by calculating the number of employees a mentor would need to train using data from the above two tables:<br>
 
  ![Retiring_Titles](./Resources/num_totrain.PNG)
 
