@@ -6,10 +6,10 @@ A request was made to determine the number of retiring employees per title and e
 
 There are an exceptionally large number of employees are eligable across all departments.
 
-1. 90,398 employees are elgible for retirement
+1. 90,398 employees are elgible for retirement<br>
     ![Retiring_Titles](./Resources/retiring_titles.PNG)
-2. Only 1,549 empoloyees are eligibile for the mentorship program
+2. Only 1,549 empoloyees are eligibile for the mentorship program<br>
     ![Retiring_Titles](./Resources/mentorship_eligibility.PNG)
-3. Of those 1,549, none are managers
+3. Of those 1,549, none are managers<br>
     ![Retiring_Titles](./Resources/mentorship_eligibility_bytitle.PNG)
 4. HP is unprepared for the "silver tsunami"
