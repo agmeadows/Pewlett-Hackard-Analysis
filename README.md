@@ -22,7 +22,7 @@ Below is a breakdown of the number of roles that need to be filled:<br>
  Below is a breakdown of the number of eligible employees for them mentorship program based on title:<br>
  ![Retiring_Titles](./Resources/mentorship_eligibility_bytitle.PNG)
 
- Across the organization, there are not enough eligigle employees to mentor staff to replace the outgoing staff. THis can be shown by calculating the number of employees a mentor would need to train using data from the above two tables:<br>
+ Across the organization, there are not enough eligigle employees to mentor staff to replace the outgoing staff. This can be shown by calculating the number of employees a mentor would need to train using data from the above two tables:<br>
 
  ![Retiring_Titles](./Resources/num_totrain.PNG)
 
@@ -30,4 +30,4 @@ Below is a breakdown of the number of roles that need to be filled:<br>
 
  ## Conclusion
 
- HP is not fully prepared for the "silver tsunami". They either need to adjust thier criteria for employees who can enter the mentioship program or hire seasoned professionals who can fill the outgoing employees.
+ HP is not fully prepared for the "silver tsunami". They either need to adjust thier criteria for employees who can enter the mentioship program or hire seasoned professionals who to fill the outgoing employee positions.
