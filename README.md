@@ -6,4 +6,4 @@ A request was made to determine the number of retiring employees per title and e
 
 There are an exceptionally large number of employees retiring across all departments as seen in the below table:
 
-![Retiring_Titles]Resources/retiring_titles.PNG
+![Retiring_Titles]./Resources/retiring_titles.PNG
